@@ -53,6 +53,8 @@ public class UnitedStates
 	 */
 	public void sortCapitals(int low, int high) {
 		
+		if (states.size() > 1) {
+		}
 		
 		
 		
